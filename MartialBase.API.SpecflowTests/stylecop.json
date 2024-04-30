@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/DotNetAnalyzers/StyleCopAnalyzers/master/StyleCop.Analyzers/StyleCop.Analyzers/Settings/stylecop.schema.json",
+  "settings": {
+    "documentationRules": {
+      "companyName": "Martialtech®",
+      "copyrightText": "Solution: {solutionName}\nProject: {projectName}\nCopyright © {companyName}. All rights reserved.",
+      "variables": {
+        "solutionName": "MartialBase.API",
+        "projectName": "MartialBase.API.SpecflowTests"
+      }
+    }
+  }
+}

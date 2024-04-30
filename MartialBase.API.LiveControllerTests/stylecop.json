@@ -1,0 +1,14 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/DotNetAnalyzers/StyleCopAnalyzers/master/StyleCop.Analyzers/StyleCop.Analyzers/Settings/stylecop.schema.json",
+  "settings": {
+    "documentationRules": {
+      "companyName": "Martialtech®",
+      "copyrightText": "Solution: {solutionName}\nProject: {projectName}\nCopyright © {copyrightYear} {companyName}. All rights reserved.",
+      "variables": {
+        "solutionName": "MartialBase.API",
+        "projectName": "MartialBase.API.LiveControllerTests",
+        "copyrightYear": "2020"
+      }
+    }
+  }
+}
